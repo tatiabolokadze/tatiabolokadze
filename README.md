@@ -2,7 +2,7 @@
 <p align="center">Turning Ideas into Software · Full-Stack Dev with a Love for C#, .NET & Front-End Tech</p>
 
 
-# About Me
+## About Me
 
 I am a **Certified Software Developer based in Georgia**, with comprehensive training from **IT Step Academy Georgia** — a prestigious institution specializing in practical, industry-driven education in software development and IT.
 
