@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Tatia Bolokadze</h1>
-<p align="center">Turning Ideas into Software | Full-Stack Dev with a Love for C#, .NET & Front-End Tech</p>
+<p align="center">Turning Ideas into Software · Full-Stack Dev with a Love for C#, .NET & Front-End Tech</p>
 
 
 ## About Me
